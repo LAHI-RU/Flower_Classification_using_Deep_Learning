@@ -1,5 +1,7 @@
-*.dmb
-*.rsc
-*.int
-*.lk
-*.zip
+__pycache__/
+*.pyc
+*.pyo
+*.h5
+.ipynb_checkpoints/
+venv/
+.env
