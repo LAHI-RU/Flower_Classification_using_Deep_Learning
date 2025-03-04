@@ -55,13 +55,12 @@ The application will be available at `http://127.0.0.1:5000/`.
 1. Upload an image of a flower using the web app.
 2. The model will predict and display the flower type.
 3. View classification results in real time.
-
-
-```
-
+   
+```bash
 ## License
 This project is open-source and available under the MIT License.
 
 ## Author
 **W G Lahiru Dhananjaya Bandara**
 
+```
